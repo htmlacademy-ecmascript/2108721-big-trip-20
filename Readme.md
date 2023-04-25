@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Roman Tsarew](https://up.htmlacademy.ru/ecmascript/20/user/2108721).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
