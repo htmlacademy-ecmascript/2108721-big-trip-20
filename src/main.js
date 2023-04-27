@@ -1,6 +1,6 @@
-import TripInfoPresenter from './presenter/trip-info-presenter.js';
-import TripPresenter from './presenter/trip-presenter.js';
-import TripFilterPresenter from './presenter/trip-filters-presenter.js';
+import TripInfoPresenter from './presenters/trip-info-presenter.js';
+import TripPresenter from './presenters/trip-presenter.js';
+import TripFilterPresenter from './presenters/trip-filters-presenter.js';
 
 const siteBodyElement = document.querySelector('.page-body');
 const siteTripInfoElement = siteBodyElement.querySelector('.trip-main');
